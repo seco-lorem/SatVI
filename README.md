@@ -6,7 +6,7 @@ It is not finished, as it was never intended to be.\
 It is now live on https://satvi.yektaseckinsatir.com/ for demonstration\
 Demo database is hosted as read-only. You may use:\
 email:    guest@deneme.son\
-password: guest\
+password: guest
 ### I may be updating (hopefully) with instructions on running it in your local environment
 A brief summary for now: Install python, pip, nodejs, and react. In backend directory run: ```pip install - r requirements.txt; uvicorn main:app --reload```. In frontend, after installing imported packages, run ```npm start```.\
 Then update origins array in main.py to contain the link to your frontend as a string without the / at the end.\
