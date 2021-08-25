@@ -8,3 +8,7 @@ Demo database is hosted as read-only. You may use:\
 email:    guest@deneme.son\
 password: guest\
 ## I Will be updating (hopefully) with instructions on running it in your local environment
+
+
+https://user-images.githubusercontent.com/62249520/130761281-bb66bc26-235e-4a86-8119-932930483ce5.mp4
+
